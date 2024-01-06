@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGwCy1iaLRjVzWbI8omni4Q52BvHDdbuK+Li5RJE0U40xb3xU1AVk92jOT9KbS9Xbj/t3LR/EpEpLkCserangA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taver\\Coding Projects\\Password-Generator-2ndEdition\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taver\\.nuget\\packages\\passwordgenerator\\2.1.0\\passwordgenerator.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
